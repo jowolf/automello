@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/env python
 
 """
 	sampler.py -- Creates a sampler out of the audio files in a given directory. You can optionally name

@@ -1,0 +1,4 @@
+pyo
+numpy
+pyechonest
+#wxpython
